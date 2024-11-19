@@ -1,11 +1,28 @@
 {
     "en":{
-        "greeting": "Heloo, world!",
-        "farewell": "Goodbye!"
+        "greeting": "hello, world!",
+        "farewell": "Goodbyle!"
     },
-    "pt":{
-        "greeting": "Olá, mundo!",
-        "farewell": "Adeus!"
-    }
-
-}   
+        "pt":{
+            "greeting": "Olá, mundo!",
+            "farewell": "Adeus!"
+        },
+        "es":{
+            "greeting": "Hola, mundo!",
+            "farewell":"Adiós!"
+    },
+        "gr":{
+            "greeting": "Γεια σου Κόσμο!",
+            "farewell": "Αντίο!"
+        },
+        "kb":{
+            "greeting": "Joto Swngchar!"
+            "farewell": "thangkha!"
+        },
+     "ka":{
+            "greeting": "Kamusta yatu!"
+            "farewell": "Maulaga!"
+    },
+    "hi":{
+            "greeting": "हैलो वर्ल्ड!"
+            "farewell": "अलविदा!"
